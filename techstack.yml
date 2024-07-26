@@ -1,0 +1,2775 @@
+repo_name: vladdou/eShopOnContainers
+report_id: e0dadb4cff97fee30dfc48abef7adda2
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T05:35:36+00:00'
+requested_by: ramon-tomas-c
+provider: github
+branch: dev
+detected_tools_count: 198
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '5.1'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/GeolocatorSample.Droid.csproj
+  detection_source: Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/GeolocatorSample.Droid.csproj
+  last_updated_by: Christian Arenas
+  last_updated_on: 2017-06-21 17:26:06.000000000 Z
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/vladdou/eShopOnContainers
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/vladdou/eShopOnContainers
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/test/Services/IntegrationTests/IntegrationTests.csproj
+  detection_source: test/Services/IntegrationTests/IntegrationTests.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-08-30 16:51:22.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '2.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  detection_source: src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  last_updated_by: Unai Zorrilla Castro
+  last_updated_on: 2017-09-13 12:53:06.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/BuildingBlocks/CommandBus/CommandBus/CommandBus.csproj
+  detection_source: src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  last_updated_by: Unai Zorrilla Castro
+  last_updated_on: 2017-09-13 12:53:06.000000000 Z
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Services/Identity/Identity.API/bower.json
+  last_updated_by: IgorSychev
+  last_updated_on: 2017-06-22 10:40:52.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Andre Passos
+  last_updated_on: 2017-04-13 16:06:22.000000000 Z
+- name: Normalize.css
+  description: A modern alternative to CSS resets
+  website_url: https://necolas.github.io/normalize.css/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 5.4.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: Xamarin
+  description: Create iOS, Android and Mac apps in C#
+  website_url: http://xamarin.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/211/RDXWoY7W.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/packages.config
+  detection_source: Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/packages.config
+  last_updated_by: Christian Arenas
+  last_updated_on: 2017-06-21 17:26:06.000000000 Z
+- name: Xamarin Forms
+  description: A complete cross-platform UI toolkit for .NET developers
+  website_url: http://developer.xamarin.com/guides/cross-platform/xamarin-forms/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/2459/RDXWoY7W_400x400.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/packages.config
+  detection_source: Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/packages.config
+  last_updated_by: Christian Arenas
+  last_updated_on: 2017-06-21 17:26:06.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Services/Identity/Identity.API/bower.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-24 14:31:33.000000000 Z
+- name: Dapper
+  description: A simple object mapper for .Net
+  website_url: https://stackexchange.github.io/Dapper/
+  version: 1.50.2
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/5847/default_377344b5aec46a959a5debae12cb81f81a64dce3.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  detection_source: src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  last_updated_by: etomas
+  last_updated_on: 2017-02-14 15:23:26.000000000 Z
+- name: Entity Framework
+  description: An object-relational mapper that enables .NET developers to work with
+    relational data
+  website_url: https://docs.microsoft.com/en-us/aspnet/entity-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  detection_source: src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  last_updated_by: dsanz
+  last_updated_on: 2017-03-02 16:37:31.000000000 Z
+- name: Entity Framework Core
+  description: Lightweight and cross-platform version of the popular Entity Framework
+  website_url: https://docs.microsoft.com/en-us/ef/core/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  detection_source: src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  last_updated_by: dsanz
+  last_updated_on: 2017-03-02 16:37:31.000000000 Z
+- name: MediatR
+  description: In-process messaging with no dependencies
+  website_url: https://github.com/jbogard/MediatR
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/20925/default_6fd5a642fb778d0aeef31d8d6cf9b58b8f20da27.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  detection_source: src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-08-26 20:55:24.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Cesar De la Torre
+  last_updated_on: 2017-10-04 20:54:34.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Cesar De la Torre
+  last_updated_on: 2017-08-15 00:35:56.000000000 Z
+- name: RabbitMQ
+  description: Open source multiprotocol messaging broker
+  website_url: http://www.rabbitmq.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-08-23 12:42:01.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Cesar De la Torre
+  last_updated_on: 2017-08-15 00:35:56.000000000 Z
+- name: AutoFac
+  description: An Inversion of Control container
+  website_url: https://autofac.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/6953/default_17650e39faa714f82fcdb12b14af73c704a15d2f.jpg
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers
+  detection_source: Repo Metadata
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: Kubernetes
+  description: Manage a cluster of Linux containers as a single system to accelerate
+    Dev and simplify Ops
+  website_url: http://kubernetes.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-11 16:53:26.000000000 Z
+- name: Moq
+  description: The most popular and friendly mocking framework for .NET
+  website_url: https://github.com/Moq/moq4
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1628/1434934.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/test/Services/IntegrationTests/IntegrationTests.csproj
+  detection_source: test/Services/IntegrationTests/IntegrationTests.csproj
+  last_updated_by: etomas
+  last_updated_on: 2017-02-14 15:23:26.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/k8s/nginx.conf
+  detection_source: k8s/nginx.conf
+  last_updated_by: Charles Lowell
+  last_updated_on: 2017-02-16 18:49:58.000000000 Z
+- name: NUnit
+  description: An open-source unit testing framework
+  website_url: http://www.nunit.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2371/jZ6MYx5Y_400x400.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.UITests/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.UITests/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2016-12-15 09:14:15.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/test/Services/IntegrationTests/IntegrationTests.csproj
+  detection_source: test/Services/IntegrationTests/IntegrationTests.csproj
+  last_updated_by: etomas
+  last_updated_on: 2017-02-14 15:23:26.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample.sln
+  detection_source: Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample.sln
+  last_updated_by: Christian Arenas
+  last_updated_on: 2017-06-21 17:26:06.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2016-11-21 10:40:19.000000000 Z
+- name: Modernizr
+  description: Respond to your user’s browser features
+  website_url: https://modernizr.com/
+  version: 2.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2440/9TeXWBzR_400x400.jpg
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-02-24 15:13:06.000000000 Z
+- name: Mongo
+  description: Heroku provides services and tools to build, run, and scale web applications.
+    Follow @herokustatus for platform updates. A @salesforce company.
+  website_url: http://wedesignapps.herokuapp.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Cesar De la Torre
+  last_updated_on: 2017-08-15 00:35:56.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers
+  detection_source: Repo Metadata
+- name: Microsoft.AspNetCore.Mvc
+  description: ASP.NET Core MVC is a web framework that gives you a powerful, patterns-based
+    way to build dynamic websites and web APIs
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12878/default_485731cffe5047176f704e34ccfabc7dc075f3d9.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  detection_source: src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  last_updated_by: dsanz
+  last_updated_on: 2017-03-02 16:37:31.000000000 Z
+  vulnerabilities:
+  - name: ASP.NET Core fails to properly validate web requests
+    cve_id: CVE-2017-0247
+    cve_url: https://github.com/advisories/GHSA-6xh7-4v2w-36q6
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.1.3
+  - name: High severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0249
+    cve_url: https://github.com/advisories/GHSA-qhqf-ghgh-x2m4
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.1.3
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc and
+      Microsoft.AspNetCore.Mvc.Core
+    cve_id: CVE-2017-0248
+    cve_url: https://github.com/advisories/GHSA-ch6p-4jcm-h8vh
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.1.3
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0256
+    cve_url: https://github.com/advisories/GHSA-j8f4-2w4p-mhjc
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.1.3
+- name: MongoDB.Driver
+  description: Official .NET driver for MongoDB
+  package_url: https://www.nuget.org/MongoDB.Driver
+  version: 2.4.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12892/default_f3b66025ae87cade251c16c8d9e166b0f1df9597.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Location/Locations.API/Locations.API.csproj
+  detection_source: src/Services/Location/Locations.API/Locations.API.csproj
+  last_updated_by: Eduard Tomas
+  last_updated_on: 2017-06-21 17:39:47.000000000 Z
+  vulnerabilities:
+  - name: MongoDB .NET/C# Driver vulnerable to Deserialization of Untrusted Data
+    cve_id: CVE-2022-48282
+    cve_url: https://github.com/advisories/GHSA-7j9m-j397-g4wx
+    detected_date: Mar 4
+    severity: high
+    first_patched: 2.19.0
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+  vulnerabilities:
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
+    cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
+    detected_date: Jun 23
+    severity: high
+    first_patched: 13.0.1
+- name: System.Net.Http
+  description: Provides a programming interface for modern HTTP applications
+  package_url: https://www.nuget.org/System.Net.Http
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12860/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+  vulnerabilities:
+  - name: ".NET Core Information Disclosure"
+    cve_id: CVE-2018-8292
+    cve_url: https://github.com/advisories/GHSA-7jgj-8wvc-jh57
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.3.4
+- name: System.Security.Cryptography.X509Certificates
+  description: Provides types for reading, exporting and verifying Authenticode X.509
+    v3 certificates
+  package_url: https://www.nuget.org/System.Security.Cryptography.X509Certificates
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13009/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation
+    cve_id: CVE-2017-11770
+    cve_url: https://github.com/advisories/GHSA-7mfr-774f-w5r9
+    detected_date: Apr 12
+    severity: high
+    first_patched: 4.1.2
+- name: Acr.UserDialogs
+  description: A cross platform library that allows you to call for standard user
+    dialogs from a shared/portable library
+  package_url: https://www.nuget.org/Acr.UserDialogs
+  version: 6.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13596/default_2fed3dd41a57ad03758b88d7d49dbbc498986493.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: AndHUD
+  description: AndHUD is a Progress / HUD library for Android which allows you to
+    easily add amazing HUDs to your app!
+  package_url: https://www.nuget.org/AndHUD
+  version: 1.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15791/default_5894d7692b3f464eee090ff67ebaad1c86ac9ff5.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Antlr
+  description: ANother Tool for Language Recognition
+  package_url: https://www.nuget.org/Antlr
+  version: 3.4.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13151/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-02-24 15:13:06.000000000 Z
+- name: AspNet.ScriptManager.jQuery
+  description: This package contains the AspNet.ScriptManager.jQuery assembly that
+    will automatically register jQuery 3.4.1 with the ScriptManager as "jquery"
+  package_url: https://www.nuget.org/AspNet.ScriptManager.jQuery
+  version: 1.10.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15455/default_3daf9923ccd8026393358b391c3de856b21a8437.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Autofac.Extensions.DependencyInjection
+  description: Autofac implementation of the interfaces in Microsoft.Extensions.DependencyInjection.Abstractions
+  package_url: https://www.nuget.org/Autofac.Extensions.DependencyInjection
+  version: 4.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13019/default_2e1baa8748e6f549b126bd1ce8d11fcaa67ba4bb.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-13 09:35:26.000000000 Z
+- name: FluentValidation.AspNetCore
+  description: AspNetCore integration for FluentValidation
+  package_url: https://www.nuget.org/FluentValidation.AspNetCore
+  version: 7.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13324/default_4d1c8e39751da3e5e8bf7305f3f45ac90df4be6f.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  detection_source: src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-13 09:35:26.000000000 Z
+- name: IdentityModel
+  description: OpenID Connect &amp; OAuth 2.0 client library
+  package_url: https://www.nuget.org/IdentityModel
+  version: 1.3.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13037/default_1b8be57b16f1f491c0e5f67e5d1021f4df68ea30.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: IdentityServer4.AspNetIdentity
+  description: ASP.NET Core Identity Integration for IdentityServer4
+  package_url: https://www.nuget.org/IdentityServer4.AspNetIdentity
+  version: 2.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14133/default_6f9cfa92c648a46276b9e4377ed49e6afc16a2a4.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/Identity.API.csproj
+  detection_source: src/Services/Identity/Identity.API/Identity.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-13 09:35:26.000000000 Z
+- name: IdentityServer4.EntityFramework
+  description: EntityFramework persistence layer for IdentityServer4
+  package_url: https://www.nuget.org/IdentityServer4.EntityFramework
+  version: 2.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14070/default_6f9cfa92c648a46276b9e4377ed49e6afc16a2a4.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/Identity.API.csproj
+  detection_source: src/Services/Identity/Identity.API/Identity.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-13 09:35:26.000000000 Z
+- name: MediatR.Extensions.Microsoft.DependencyInjection
+  description: MediatR extensions for ASP.NET Core
+  package_url: https://www.nuget.org/MediatR.Extensions.Microsoft.DependencyInjection
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13395/default_de77a8370e47861dfbe30f06e25c22916ed609b5.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  detection_source: src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-13 09:35:26.000000000 Z
+- name: Microsoft.ApplicationInsights
+  description: Application Insights Base API
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13015/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.ApplicationInsights.Agent.Intercept
+  description: This NuGet enables Interception of method calls
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.Agent.Intercept
+  version: 2.0.6
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14587/default_04c230a7faf108c837aa3e6d645603d730fef980.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.ApplicationInsights.AspNetCore
+  description: Application Insights for ASP.NET Core web applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.AspNetCore
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13203/default_e23dabba1be2c69fbf5fc50bdc46cbffbe6ca2cb.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-13 09:35:26.000000000 Z
+- name: Microsoft.ApplicationInsights.DependencyCollector
+  description: Application Insights Dependency Collector for .NET applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.DependencyCollector
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13741/default_464fb9b438380c5ec98e481823a05b9599991662.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-13 09:35:26.000000000 Z
+- name: Microsoft.ApplicationInsights.PerfCounterCollector
+  description: Application Insights Performance Counters Collector allows you to send
+    data collected by Performance Counters to Application Insights
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.PerfCounterCollector
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13849/default_1dc9a9444fe68b18bef2b0e836067caced79799a.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.ApplicationInsights.Web
+  description: Application Insights for .NET web applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.Web
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13375/default_4d4f20064faa1a784f764c1e08d3b0e36273065c.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.ApplicationInsights.WindowsServer
+  description: Application Insights Windows Server nuget package provides automatic
+    collection of application insights telemetry for .NET applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.WindowsServer
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14056/default_ead9c4c471ac46d45e6810fff3502fe6c044fb23.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel
+  description: This nuget provides a telemetry channel to Application Insights Windows
+    Server SDK that will preserve telemetry in offline scenarios
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14117/default_d7d5794851dadbcf90dc060e882cc3b488ce3484.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.AspNet.FriendlyUrls.Core
+  description: A library that enables automatic resolution of extensionless URLs to
+    ASP.NET file-based handlers, e.g
+  package_url: https://www.nuget.org/Microsoft.AspNet.FriendlyUrls.Core
+  version: 1.0.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15298/default_9893ad2664cd5a23b4789eed0b898140b609ccb8.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.AspNet.Web.Optimization
+  description: ASP.NET Optimization introduces a way to bundle and optimize CSS and
+    JavaScript files
+  package_url: https://www.nuget.org/Microsoft.AspNet.Web.Optimization
+  version: 1.1.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12966/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.AspNetCore.StaticFiles
+  description: ASP.NET Core static files middleware
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.StaticFiles
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13028/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  detection_source: src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  last_updated_by: dsanz
+  last_updated_on: 2017-03-02 16:37:31.000000000 Z
+- name: Microsoft.AspNetCore.TestHost
+  description: ASP.NET Core web server for writing and running tests
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.TestHost
+  version: 2.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13268/default_3b9faa77d26eef0a944d4dab8d562db23059cb72.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/test/Services/FunctionalTests/FunctionalTests.csproj
+  detection_source: test/Services/FunctionalTests/FunctionalTests.csproj
+  last_updated_by: Unai Zorrilla Castro
+  last_updated_on: 2017-08-29 10:48:04.000000000 Z
+- name: Microsoft.Azure.WebJobs
+  description: This package contains the runtime assemblies for Microsoft.Azure.WebJobs.Host
+  package_url: https://www.nuget.org/Microsoft.Azure.WebJobs
+  version: 2.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13246/default_43ce02ab18bb400d4d6b410ac4dc3a50f87e634a.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Marketing/Infrastructure/AzureFunctions/marketing-functions.csproj
+  detection_source: src/Services/Marketing/Infrastructure/AzureFunctions/marketing-functions.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-06-30 06:59:26.000000000 Z
+- name: Microsoft.Azure.WebJobs.Extensions.Http
+  description: This package adds binding extensions for Http
+  package_url: https://www.nuget.org/Microsoft.Azure.WebJobs.Extensions.Http
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15712/default_2397cf5a8d01ec98d60ef05e725d78d77f446af5.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Marketing/Infrastructure/AzureFunctions/marketing-functions.csproj
+  detection_source: src/Services/Marketing/Infrastructure/AzureFunctions/marketing-functions.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-06-30 14:31:22.000000000 Z
+- name: Microsoft.Bcl
+  description: 'This packages enables projects targeting down-level platforms to use
+    some of the types added in later versions including: - CallerMemberNameAttribute
+    - CallerLineNumberAttribute...'
+  package_url: https://www.nuget.org/Microsoft.Bcl
+  version: 1.1.10
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12902/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Microsoft.Bcl.Build
+  description: This package provides build infrastructure components so that projects
+    referencing specific Microsoft packages can successfully build
+  package_url: https://www.nuget.org/Microsoft.Bcl.Build
+  version: 1.0.21
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12905/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Microsoft.CSharp
+  description: Provides support for compilation and code generation, including dynamic,
+    using the C# language
+  package_url: https://www.nuget.org/Microsoft.CSharp
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12845/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+  description: Replacement CodeDOM providers that use the new .NET Compiler Platform
+  package_url: https://www.nuget.org/Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+  version: 1.0.3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13106/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.DotNet.InternalAbstractions
+  description: Abstractions for making code that uses file system and environment
+    testable
+  package_url: https://www.nuget.org/Microsoft.DotNet.InternalAbstractions
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13689/default_d38a6d88fa73fea0e64b3d75e3f75ff6aebf7b80.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/test/Services/IntegrationTests/IntegrationTests.csproj
+  detection_source: test/Services/IntegrationTests/IntegrationTests.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-08-30 16:51:22.000000000 Z
+- name: Microsoft.EntityFrameworkCore
+  description: Entity Framework Core is a lightweight and extensible version of the
+    popular Entity Framework data access technology
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12852/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  detection_source: src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  last_updated_by: dsanz
+  last_updated_on: 2017-03-02 16:37:31.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Relational
+  description: Shared Entity Framework Core components for relational database providers
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Relational
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12914/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  detection_source: src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  last_updated_by: dsanz
+  last_updated_on: 2017-03-02 16:37:31.000000000 Z
+- name: Microsoft.EntityFrameworkCore.SqlServer
+  description: Microsoft SQL Server database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  detection_source: src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  last_updated_by: dsanz
+  last_updated_on: 2017-03-02 16:37:31.000000000 Z
+- name: Microsoft.Extensions.Logging.Debug
+  description: Debug output logger provider implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging.Debug
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12995/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  detection_source: src/Web/WebMonolithic/eShopWeb/eShopWeb.csproj
+  last_updated_by: dsanz
+  last_updated_on: 2017-03-02 16:37:31.000000000 Z
+- name: Microsoft.NETCore.Platforms
+  description: Provides runtime information required to resolve target framework,
+    platform, and runtime specific implementations of .NETCore packages
+  package_url: https://www.nuget.org/Microsoft.NETCore.Platforms
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12907/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Microsoft.Net.Compilers
+  description: 'Note: This package is deprecated'
+  package_url: https://www.nuget.org/Microsoft.Net.Compilers
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13170/default_81ac985912284073db895b0d26abf3657532a164.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.Net.Http
+  description: This package includes HttpClient for sending requests over HTTP, as
+    well as HttpRequestMessage and HttpResponseMessage for processing HTTP messages
+  package_url: https://www.nuget.org/Microsoft.Net.Http
+  version: 2.2.29
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12875/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Microsoft.Web.Infrastructure
+  description: This package contains the Microsoft.Web.Infrastructure assembly that
+    lets you dynamically register HTTP modules at run time
+  package_url: https://www.nuget.org/Microsoft.Web.Infrastructure
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12927/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-03-09 21:38:02.000000000 Z
+- name: Microsoft.Win32.Primitives
+  description: Provides common types for Win32-based libraries
+  package_url: https://www.nuget.org/Microsoft.Win32.Primitives
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13149/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: MongoDB.Bson
+  description: MongoDB's Official Bson Library
+  package_url: https://www.nuget.org/MongoDB.Bson
+  version: 2.4.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13027/default_79c0a8d9add56bcf90325ea0ad034f66b38d8dd7.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Location/Locations.API/Locations.API.csproj
+  detection_source: src/Services/Location/Locations.API/Locations.API.csproj
+  last_updated_by: Eduard Tomas
+  last_updated_on: 2017-06-21 17:39:47.000000000 Z
+- name: MongoDB.Driver.Core
+  description: Core Component of the Official MongoDB .NET Driver
+  package_url: https://www.nuget.org/MongoDB.Driver.Core
+  version: 2.4.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13134/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Location/Locations.API/Locations.API.csproj
+  detection_source: src/Services/Location/Locations.API/Locations.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-11 14:26:44.000000000 Z
+- name: NETStandard.Library
+  description: A set of standard .NET APIs that are prescribed to be used and supported
+    together
+  package_url: https://www.nuget.org/NETStandard.Library
+  version: 1.6.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12843/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: NUnitTestAdapter
+  description: The NUnit TestAdapter for Visual Studio 2012 and newer for NUnit 2
+  package_url: https://www.nuget.org/NUnitTestAdapter
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14014/default_eda5fda8a13db51fe1af0908a714036e1ba79510.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.UITests/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.UITests/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2016-12-15 09:14:15.000000000 Z
+- name: PCLCrypto
+  description: PCL Crypto provides a consistent, portable set of crypto APIs for .NET
+    4.5, Windows Phone 8.0 SL &amp; 8.1 Xaml, Windows Store, Xamarin.iOS, Xamarin.Android
+  package_url: https://www.nuget.org/PCLCrypto
+  version: 2.0.147
+  license: MS-PL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13326/default_bac2e4378e5818ffa4955b20565842bac60d080a.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: PInvoke.BCrypt
+  description: P/Invoke methods for the Windows BCrypt.dll
+  package_url: https://www.nuget.org/PInvoke.BCrypt
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14945/default_acfa5bb9d9399ceb54a1b978e62e07828bf710ec.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: PInvoke.Kernel32
+  description: P/Invoke methods for the Windows Kernel32.dll
+  package_url: https://www.nuget.org/PInvoke.Kernel32
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14104/default_195724d663e61862dc96472f77d3488ce3d1d531.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: PInvoke.NCrypt
+  description: P/Invoke methods for the Windows NCrypt.dll
+  package_url: https://www.nuget.org/PInvoke.NCrypt
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14321/default_0615d1d53c042ae7bd040d1334cdceff0f407ce6.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: PInvoke.Windows.Core
+  description: P/Invoke types for common Windows APIs
+  package_url: https://www.nuget.org/PInvoke.Windows.Core
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13814/default_09c85dd1bb0789ff721cf2f6a004e0a20121dfe9.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Plugin.CurrentActivity
+  description: Provides a simple solution for getting access to the current Activity
+    of the application when developing a Plugin for Xamarin
+  package_url: https://www.nuget.org/Plugin.CurrentActivity
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14073/default_05b2dd6b2f982b054cffd7be08d3d75e26d46626.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Plugin.Permissions
+  description: Check to see if your users have granted or denied permissions for common
+    permission groups on iOS and Android
+  package_url: https://www.nuget.org/Plugin.Permissions
+  version: 1.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13588/default_4f0c9d929852ad7e15668943a9969acbf131e248.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Polly
+  description: Polly is a library that allows developers to express resilience and
+    transient fault handling policies such as Retry
+  package_url: https://www.nuget.org/Polly
+  version: 5.3.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12935/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  detection_source: src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  last_updated_by: Unai Zorrilla Castro
+  last_updated_on: 2017-11-02 14:03:32.000000000 Z
+- name: Respond
+  description: The goal of this script is to provide a fast and lightweight
+  package_url: https://www.nuget.org/Respond
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13229/default_e23dabba1be2c69fbf5fc50bdc46cbffbe6ca2cb.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-02-24 15:13:06.000000000 Z
+- name: Splat
+  description: A library to make things cross-platform that should be
+  package_url: https://www.nuget.org/Splat
+  version: 1.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13292/default_0e6336285a2ac0713cff413264705f5aa2f348a1.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: StackExchange.Redis.StrongName
+  description: High performance Redis client
+  package_url: https://www.nuget.org/StackExchange.Redis.StrongName
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13160/default_f71121d0b3a24242370eb5f53177f826d4685938.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/test/Services/IntegrationTests/IntegrationTests.csproj
+  detection_source: test/Services/IntegrationTests/IntegrationTests.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-23 10:49:45.000000000 Z
+- name: Swashbuckle.AspNetCore
+  description: Swagger tools for documenting APIs built on ASP.NET Core
+  package_url: https://www.nuget.org/Swashbuckle.AspNetCore
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-11 14:26:44.000000000 Z
+- name: Swashbuckle.AspNetCore.SwaggerUI
+  description: Middleware to expose an embedded version of the swagger-ui from an
+    ASP.NET Core application
+  package_url: https://www.nuget.org/Swashbuckle.AspNetCore.SwaggerUI
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13528/default_311009104e9efa41dc477451d8d60c2d0cbe7895.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Location/Locations.API/Locations.API.csproj
+  detection_source: src/Services/Location/Locations.API/Locations.API.csproj
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2017-10-11 14:26:44.000000000 Z
+- name: System.AppContext
+  description: Provides the System.AppContext class, which allows access to the BaseDirectory
+    property and other application specific data
+  package_url: https://www.nuget.org/System.AppContext
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13144/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Collections
+  description: Provides classes that define generic collections
+  package_url: https://www.nuget.org/System.Collections
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12855/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Collections.Concurrent
+  description: Provides several thread-safe collection classes that should be used
+    in place of the corresponding types in the System.Collections.NonGeneric and System.Collections
+    packages when...
+  package_url: https://www.nuget.org/System.Collections.Concurrent
+  version: 4.0.12
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12925/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.ComponentModel
+  description: Provides interfaces for the editing and change tracking of objects
+    used as data sources
+  package_url: https://www.nuget.org/System.ComponentModel
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12963/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Console
+  description: Provides the System.Console class, which represents the standard input,
+    output and error streams for console applications
+  package_url: https://www.nuget.org/System.Console
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12992/default_971bb108ce002c2032e407a9046135e1542c46c7.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Diagnostics.Debug
+  description: Provides classes and attributes that allows basic interaction with
+    a debugger
+  package_url: https://www.nuget.org/System.Diagnostics.Debug
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12887/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Diagnostics.Tools
+  description: Provides attributes, such as GeneratedCodeAttribute and SuppresMessageAttribute,
+    that are emitted or consumed by analysis tools
+  package_url: https://www.nuget.org/System.Diagnostics.Tools
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12946/default_3bbc310dbe28a83b0e799743dc3f0afaa77665c9.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Diagnostics.Tracing
+  description: Provides class that enable you to create high performance tracing events
+    to be captured by event tracing for Windows
+  package_url: https://www.nuget.org/System.Diagnostics.Tracing
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13072/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Dynamic.Runtime
+  description: Provides classes and interfaces that support the Dynamic Language Runtime
+  package_url: https://www.nuget.org/System.Dynamic.Runtime
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12921/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Globalization
+  description: Provides classes that define culture-related information
+  package_url: https://www.nuget.org/System.Globalization
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12895/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Globalization.Calendars
+  description: Provides classes for performing date calculations using specific calendars,
+    including the Gregorian, Julian, Hijri and Korean calendars
+  package_url: https://www.nuget.org/System.Globalization.Calendars
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13335/default_9a849f196ca7930b27f663ae8f15c937ea1b49e5.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.IO
+  description: Provides base input and output
+  package_url: https://www.nuget.org/System.IO
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12901/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.IO.Compression
+  description: Provides classes that support the compression and decompression of
+    streams
+  package_url: https://www.nuget.org/System.IO.Compression
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12997/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.IO.Compression.ZipFile
+  description: Provides classes that support the compression and decompression of
+    streams using file system paths
+  package_url: https://www.nuget.org/System.IO.Compression.ZipFile
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13240/default_43ce02ab18bb400d4d6b410ac4dc3a50f87e634a.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.IO.FileSystem
+  description: Provides types that allow reading and writing to files and types that
+    provide basic file and directory support
+  package_url: https://www.nuget.org/System.IO.FileSystem
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12931/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.IO.FileSystem.Primitives
+  description: Provides common enumerations and exceptions for path-based I/O libraries
+  package_url: https://www.nuget.org/System.IO.FileSystem.Primitives
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13111/default_623cfb3f5700f77ec1aadc91de41d13f3aa2ae3d.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Linq
+  description: Provides classes and interfaces that supports queries that use Language-Integrated
+    Query
+  package_url: https://www.nuget.org/System.Linq
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12857/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Linq.Expressions
+  description: Provides classes, interfaces and enumerations that enable language-level
+    code expressions to be represented as objects in the form of expression trees
+  package_url: https://www.nuget.org/System.Linq.Expressions
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12924/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Net.Primitives
+  description: Provides common types for network-based libraries, including System.Net.IPAddress,
+    System.Net.IPEndPoint, and System.Net.CookieContainer
+  package_url: https://www.nuget.org/System.Net.Primitives
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12985/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Net.Sockets
+  description: Provides classes such as Socket, TcpClient and UdpClient, which enable
+    developers to send and receive data over the network
+  package_url: https://www.nuget.org/System.Net.Sockets
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13036/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.ObjectModel
+  description: Provides types and interfaces that allow the creation of observable
+    types that provide notifications to clients when changes are made to it
+  package_url: https://www.nuget.org/System.ObjectModel
+  version: 4.0.12
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12994/default_971bb108ce002c2032e407a9046135e1542c46c7.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Reflection
+  description: Provides types that retrieve information about assemblies, modules,
+    members, parameters, and other entities in managed code by examining their metadata
+  package_url: https://www.nuget.org/System.Reflection
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12874/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Reflection.Extensions
+  description: Provides custom attribute extension methods for System.Reflection types
+  package_url: https://www.nuget.org/System.Reflection.Extensions
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12900/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Reflection.Primitives
+  description: Provides common enumerations for reflection-based libraries
+  package_url: https://www.nuget.org/System.Reflection.Primitives
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13006/default_12f7186a6d439da94c192c70c3589768d943782d.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Resources.ResourceManager
+  description: Provides classes and attributes that allow developers to create, store,
+    and manage various culture-specific resources used in an application
+  package_url: https://www.nuget.org/System.Resources.ResourceManager
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12898/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Runtime
+  description: Provides the fundamental primitives
+  package_url: https://www.nuget.org/System.Runtime
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12849/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Runtime.Extensions
+  description: Provides commonly-used classes for performing mathematical functions,
+    conversions, string comparisons and querying environment information
+  package_url: https://www.nuget.org/System.Runtime.Extensions
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12872/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Runtime.Handles
+  description: Provides base classes, including System.Runtime.InteropServices.CriticalHandle
+    and System.Runtime.InteropServices.SafeHandle, for types that represent operating
+    system handles
+  package_url: https://www.nuget.org/System.Runtime.Handles
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13103/default_9a42ff760d96a634e61dad6d7a7d76e2d1506229.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Runtime.InteropServices
+  description: Provides types that support COM interop and platform invoke services
+  package_url: https://www.nuget.org/System.Runtime.InteropServices
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12908/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Runtime.InteropServices.RuntimeInformation
+  description: Provides APIs to query about runtime and OS information
+  package_url: https://www.nuget.org/System.Runtime.InteropServices.RuntimeInformation
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12960/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Runtime.Numerics
+  description: Provides the numeric types System.Numerics.BigInteger and System.Numerics.Complex,
+    which complement the numeric primitives, such as System.Byte, System.Double and
+    System.Int32
+  package_url: https://www.nuget.org/System.Runtime.Numerics
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13039/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Runtime.Serialization.Primitives
+  description: Provides common types, including System.Runtime.Serialization.DataContractAttribute,
+    for libraries that support data contract serialization
+  package_url: https://www.nuget.org/System.Runtime.Serialization.Primitives
+  version: 4.1.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12913/default_d21793a7ac64bcdc81c7a16ad33374ffa00fa50d.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Security.Cryptography.Algorithms
+  description: Provides base types for cryptographic algorithms, including hashing,
+    encryption, and signing operations
+  package_url: https://www.nuget.org/System.Security.Cryptography.Algorithms
+  version: 4.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12929/default_039376cf26bae25623c106aea6185b89980a1e50.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Security.Cryptography.Encoding
+  description: Provides types for representing Abstract Syntax Notation One
+  package_url: https://www.nuget.org/System.Security.Cryptography.Encoding
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13179/default_42e87535b59c0cd77a89678c1c4ed24abc143f58.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Security.Cryptography.Primitives
+  description: Provides common types for the cryptographic libraries
+  package_url: https://www.nuget.org/System.Security.Cryptography.Primitives
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13109/default_f0c74e534077001eb65a152707758ce46a2dc970.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Text.Encoding
+  description: Provides base abstract encoding classes for converting blocks of characters
+    to and from blocks of bytes
+  package_url: https://www.nuget.org/System.Text.Encoding
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12933/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Text.Encoding.Extensions
+  description: Provides support for specific encodings, including ASCII, UTF-7, UTF-8,
+    UTF-16, and UTF-32
+  package_url: https://www.nuget.org/System.Text.Encoding.Extensions
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12973/default_3bbc310dbe28a83b0e799743dc3f0afaa77665c9.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Text.RegularExpressions
+  description: Provides the System.Text.RegularExpressions.Regex class, an implementation
+    of a regular expression engine
+  package_url: https://www.nuget.org/System.Text.RegularExpressions
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12916/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Threading
+  description: Provides the fundamental synchronization primitives, including System.Threading.Monitor
+    and System.Threading.Mutex, that are required when writing asynchronous code
+  package_url: https://www.nuget.org/System.Threading
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12861/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Threading.Tasks
+  description: Provides types that simplify the work of writing concurrent and asynchronous
+    code
+  package_url: https://www.nuget.org/System.Threading.Tasks
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12899/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Threading.Timer
+  description: Provides the System.Threading.Timer class, which is a mechanism for
+    executing a method at specified intervals
+  package_url: https://www.nuget.org/System.Threading.Timer
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13016/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Xml.ReaderWriter
+  description: Provides provides a fast, non-cached, forward-only way to read and
+    write Extensible Markup Language
+  package_url: https://www.nuget.org/System.Xml.ReaderWriter
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12962/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: System.Xml.XDocument
+  description: Provides the classes for Language-Integrated Query
+  package_url: https://www.nuget.org/System.Xml.XDocument
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12964/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Validation
+  description: Method input validation and runtime checks that report errors or throw
+    exceptions when failures are detected
+  package_url: https://www.nuget.org/Validation
+  version: 2.2.8
+  license: MS-PL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13389/default_97f005023342604c2e0668a9597b9eb6971b1d06.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: WPtoolkit
+  description: Windows Phone toolkit provides a collection of controls
+  package_url: https://www.nuget.org/WPtoolkit
+  version: 4.2013.08
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13641/default_68f579b2fdb37f974ffe5edb6e34476d1305c023.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.WinPhone/packages.config
+  detection_source: Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.WinPhone/packages.config
+  last_updated_by: Christian Arenas
+  last_updated_on: 2017-06-21 17:26:06.000000000 Z
+- name: WebGrease
+  description: Web Grease is a suite of tools for optimizing javascript
+  package_url: https://www.nuget.org/WebGrease
+  version: 1.5.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13115/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  detection_source: src/Web/Catalog.WebForms/Catalog.WebForms/packages.config
+  last_updated_by: Bill Wagner
+  last_updated_on: 2017-02-24 15:13:06.000000000 Z
+- name: Xam.Plugin.Geolocator
+  description: Easily access geolocation across Xamarin.iOS
+  package_url: https://www.nuget.org/Xam.Plugin.Geolocator
+  version: 1.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14041/default_f63b6f87747061a7417e1a12e4df8ac332340e7a.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/packages.config
+  detection_source: Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/packages.config
+  last_updated_by: Christian Arenas
+  last_updated_on: 2017-06-21 17:26:06.000000000 Z
+- name: Xam.Plugins.Settings
+  description: Settings Plugin for Xamarin and Windows provides a consistent, cross
+    platform settings/preferences plugin
+  package_url: https://www.nuget.org/Xam.Plugins.Settings
+  version: 2.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13720/default_482e6dd93176c59f6402194e60103b50888576af.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Xamarin.Android.Support.Animated.Vector.Drawable
+  description: Xamarin.Android bindings for Android Support Library - animated-vector-drawable
+  package_url: https://www.nuget.org/Xamarin.Android.Support.Animated.Vector.Drawable
+  version: 23.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13156/default_ec099cd91036217b675f6c04acb0ff8c567a41ed.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Xamarin.Android.Support.Design
+  description: Xamarin.Android bindings for Android Support Library - design
+  package_url: https://www.nuget.org/Xamarin.Android.Support.Design
+  version: 23.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13074/default_f0c74e534077001eb65a152707758ce46a2dc970.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Xamarin.Android.Support.Vector.Drawable
+  description: Xamarin.Android bindings for Android Support Library - support-vector-drawable
+  package_url: https://www.nuget.org/Xamarin.Android.Support.Vector.Drawable
+  version: 23.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13152/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Xamarin.Android.Support.v4
+  description: Xamarin.Android bindings for Android Support Library - support-v4
+  package_url: https://www.nuget.org/Xamarin.Android.Support.v4
+  version: 21.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12934/default_d871263d8798790404638a4d3692cc70b6389166.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/packages.config
+  detection_source: Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/packages.config
+  last_updated_by: Christian Arenas
+  last_updated_on: 2017-06-21 17:26:06.000000000 Z
+- name: Xamarin.Android.Support.v7.AppCompat
+  description: Xamarin.Android bindings for Android Support Library - appcompat-v7
+  package_url: https://www.nuget.org/Xamarin.Android.Support.v7.AppCompat
+  version: 23.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12949/default_85d1877c90581261989cc5e05023faec547467b3.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Xamarin.Android.Support.v7.CardView
+  description: Xamarin.Android bindings for Android Support Library - cardview-v7
+  package_url: https://www.nuget.org/Xamarin.Android.Support.v7.CardView
+  version: 23.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13184/default_b4059c3863f54504d1a911991b5fe93c60e9e43e.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Xamarin.Android.Support.v7.MediaRouter
+  description: Xamarin.Android bindings for Android Support Library - mediarouter-v7
+  package_url: https://www.nuget.org/Xamarin.Android.Support.v7.MediaRouter
+  version: 23.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13262/default_3b9faa77d26eef0a944d4dab8d562db23059cb72.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Xamarin.Android.Support.v7.RecyclerView
+  description: Xamarin.Android bindings for Android Support Library - recyclerview-v7
+  package_url: https://www.nuget.org/Xamarin.Android.Support.v7.RecyclerView
+  version: 23.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13081/default_baa6c1c3e725b18a803052f0d13efd0ca49e5d50.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Xamarin.FFImageLoading
+  description: Xamarin Library to load images quickly and easily
+  package_url: https://www.nuget.org/Xamarin.FFImageLoading
+  version: 2.2.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13870/default_f7c305d4127fe11a4a028d51e0354567cafca3c2.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Xamarin.FFImageLoading.Forms
+  description: Xamarin Library to load images quickly and easily on Xamarin.Forms
+  package_url: https://www.nuget.org/Xamarin.FFImageLoading.Forms
+  version: 2.2.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13718/default_454d3c2483df503a4aa32113a89e3edb23190d51.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: Xamarin.Forms
+  description: Build native UIs for iOS
+  package_url: https://www.nuget.org/Xamarin.Forms
+  version: 1.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12873/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/packages.config
+  detection_source: Components/GeolocatorPlugin-1.0.3/samples/GeolocatorSample/GeolocatorSample/GeolocatorSample.Droid/packages.config
+  last_updated_by: Christian Arenas
+  last_updated_on: 2017-06-21 17:26:06.000000000 Z
+- name: Xamarin.UITest
+  description: UI Automation Framework for testing Android and iOS apps
+  package_url: https://www.nuget.org/Xamarin.UITest
+  version: 2.0.3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15019/default_0e6c02ce30c87dd5e7cf4725344a49e8d64aa51b.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.UITests/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.UITests/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2016-12-15 09:14:15.000000000 Z
+- name: modernhttpclient
+  description: Write your app using System.Net.Http
+  package_url: https://www.nuget.org/modernhttpclient
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13401/default_4365d404b4980fe62927eb339d7814e74037cd43.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.Core/project.json
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.Droid/packages.config
+  last_updated_by: Javier Suárez Ruiz
+  last_updated_on: 2017-09-20 14:44:30.000000000 Z
+- name: mongocsharpdriver
+  description: This package contains the legacy driver
+  package_url: https://www.nuget.org/mongocsharpdriver
+  version: 2.4.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13029/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Location/Locations.API/Locations.API.csproj
+  detection_source: src/Services/Location/Locations.API/Locations.API.csproj
+  last_updated_by: Eduard Tomas
+  last_updated_on: 2017-06-21 17:39:47.000000000 Z
+- name: xunit.abstractions
+  description: Common abstractions used to exchange information between xUnit.net
+    and version-independent runners
+  package_url: https://www.nuget.org/xunit.abstractions
+  version: 2.0.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13312/default_51dc9af41ee0a21e27551191d6c835184da1c0d8.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  last_updated_by: David Britch
+  last_updated_on: 2017-08-08 14:44:54.000000000 Z
+- name: xunit.assert
+  description: Includes the assertion library from xUnit.net
+  package_url: https://www.nuget.org/xunit.assert
+  version: 2.2.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13418/default_de77a8370e47861dfbe30f06e25c22916ed609b5.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  last_updated_by: David Britch
+  last_updated_on: 2017-05-04 14:04:37.000000000 Z
+- name: xunit.core
+  description: Includes the libraries for writing unit tests with xUnit.net
+  package_url: https://www.nuget.org/xunit.core
+  version: 2.1.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13365/default_bf5ef28b557cbc9d58bff0b01afc8f39b37cfbc6.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  last_updated_by: David Britch
+  last_updated_on: 2017-05-04 14:04:37.000000000 Z
+- name: xunit.extensibility.core
+  description: Includes xunit.core.dll for extensibility purposes
+  package_url: https://www.nuget.org/xunit.extensibility.core
+  version: 2.1.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13436/default_9b520b7c258654c414831abb72568e430492595c.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  last_updated_by: David Britch
+  last_updated_on: 2017-05-04 14:04:37.000000000 Z
+- name: xunit.extensibility.execution
+  description: Includes xunit.execution.*.dll for extensibility purposes
+  package_url: https://www.nuget.org/xunit.extensibility.execution
+  version: 2.1.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13498/default_83bd69dd2d30bd3eae917c5ac8376fd500016904.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  last_updated_by: David Britch
+  last_updated_on: 2017-08-08 14:44:54.000000000 Z
+- name: xunit.runner.utility
+  description: Includes the version-independent runner for xUnit.net to run both v1.9.2
+    and v2.0+ tests
+  package_url: https://www.nuget.org/xunit.runner.utility
+  version: 2.1.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14819/default_6e5a685818280b7ef6cd4d407488c24c5de03617.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  detection_source: src/Mobile/eShopOnContainers/eShopOnContainers.TestRunner.Droid/packages.config
+  last_updated_by: David Britch
+  last_updated_on: 2017-05-04 14:04:37.000000000 Z
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.3.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/test/Services/FunctionalTests/FunctionalTests.csproj
+  detection_source: test/Services/FunctionalTests/FunctionalTests.csproj
+  last_updated_by: Igor Sychev
+  last_updated_on: 2017-10-08 19:25:51.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@angular/http"
+  description: Angular - the http service
+  package_url: https://www.npmjs.com/@angular/http
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15977/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@ng-bootstrap/ng-bootstrap"
+  description: Angular powered Bootstrap
+  package_url: https://www.npmjs.com/@ng-bootstrap/ng-bootstrap
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17486/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Andre Passos
+  last_updated_on: 2017-04-13 16:06:22.000000000 Z
+- name: "@types/core-js"
+  description: TypeScript definitions for core-js
+  package_url: https://www.npmjs.com/@types/core-js
+  version: 0.9.34
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16420/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@types/hammerjs"
+  description: TypeScript definitions for Hammer.js
+  package_url: https://www.npmjs.com/@types/hammerjs
+  version: 2.0.33
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17205/default_f32012d99e98300650172d76a20c554617f1031d.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 2.5.38
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 6.0.85
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: "@types/selenium-webdriver"
+  description: TypeScript definitions for Selenium WebDriverJS
+  package_url: https://www.npmjs.com/@types/selenium-webdriver
+  version: 2.44.26
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17263/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Andre Passos
+  last_updated_on: 2017-04-13 16:06:22.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Andre Passos
+  last_updated_on: 2017-04-13 16:06:22.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 0.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Andre Passos
+  last_updated_on: 2017-04-13 16:06:22.000000000 Z
+- name: font-awesome
+  description: The iconic font and CSS framework
+  package_url: https://www.npmjs.com/font-awesome
+  version: 4.6.3
+  license: OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16160/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: isomorphic-fetch
+  description: Isomorphic WHATWG Fetch API, for Node &amp; Browserify
+  package_url: https://www.npmjs.com/isomorphic-fetch
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16185/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: sass-lint
+  description: All Node Sass linter!
+  package_url: https://www.npmjs.com/sass-lint
+  version: 1.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17332/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Andre Passos
+  last_updated_on: 2017-04-13 16:06:22.000000000 Z
+- name: ts-helpers
+  description: Typescript helpers for compiling typescript while specifying `--noEmitHelpers`
+    within your `tsconfig.json`
+  package_url: https://www.npmjs.com/ts-helpers
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16605/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: typedoc
+  description: Create api documentation for TypeScript projects
+  package_url: https://www.npmjs.com/typedoc
+  version: 0.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2017-08-10 10:11:21.000000000 Z
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 0.5.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Andre Passos
+  last_updated_on: 2017-04-13 16:06:22.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.8.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Web/WebSPA/package-lock.json
+  detection_source: src/Web/WebSPA/package.json
+  last_updated_by: Andre Passos
+  last_updated_on: 2017-04-13 16:06:22.000000000 Z
+- name: jquery-validation
+  description: Form validation made easy
+  package_url: http://bower.io/jquery-validation
+  version: 1.14.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/bower.json
+  detection_source: src/Services/Identity/Identity.API/bower.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-24 14:31:33.000000000 Z
+- name: jquery-validation-unobtrusive
+  description: Add-on to jQuery Validation to enable unobtrusive validation options
+    in data-* attributes
+  package_url: http://bower.io/jquery-validation-unobtrusive
+  version: 3.2.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/vladdou/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/bower.json
+  detection_source: src/Services/Identity/Identity.API/bower.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-24 14:31:33.000000000 Z
